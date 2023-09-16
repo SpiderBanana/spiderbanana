@@ -1,4 +1,4 @@
-**<h1 style="text-align: center;"> Hey, my name is Antoine and welcome to my profile! 👋</h1>**
+**<h1 align= "center"> Hey, my name is Antoine and welcome to my profile! 👋</h1>**
 
 ## About Me 👤
 
@@ -14,4 +14,4 @@
 
 
 ## Anlytics 📊
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/SpiderBanana/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpiderBanana&show_icons=true&theme=transparent)
